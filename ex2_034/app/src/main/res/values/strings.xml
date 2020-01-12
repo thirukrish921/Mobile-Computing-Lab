@@ -1,0 +1,8 @@
+<resources>
+<string name="app_name">login_screen</string>
+<string-array name="list_item">
+<item>red</item>
+<item>green</item>
+<item>blue</item>
+</string-array>
+    </resources>
