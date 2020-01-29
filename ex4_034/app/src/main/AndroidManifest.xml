@@ -16,6 +16,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".ModifyStudent" />
+        <activity android:name=".AddCourse" />
+        <activity android:name=".ModStudent"></activity>
     </application>
 
 </manifest>
